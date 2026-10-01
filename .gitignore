@@ -123,3 +123,8 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+# ReSukiSU A11Q: fetched at build time, never commit
+KernelSU/
+out/
+toolchain/
